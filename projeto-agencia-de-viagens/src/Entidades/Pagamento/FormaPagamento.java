@@ -1,5 +1,5 @@
 package Entidades.Pagamento;
-public class FormaPagamento {
+public abstract class FormaPagamento {
     private String cpf;
     
     public FormaPagamento(String cpf){

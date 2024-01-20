@@ -1,7 +1,5 @@
 package Entidades.Pagamento;
 
-import Entidades.Pagamento.FormaPagamento;
-
 public class Pix extends FormaPagamento {
 
     private String nome;
